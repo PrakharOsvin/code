@@ -1,0 +1,282 @@
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable {
+  z-index: 10000;
+}
+.shortcode-option textarea,
+.shortcode-option label,
+.shortcode-option input,
+.shortcode-option select,
+.shortcode-option .wp-picker-container,
+.shortcode-save-options.button {
+  margin: 5px 0;
+}
+.shortcode-option label {
+  display: block;
+  margin-bottom: 0;
+}
+.description {
+  margin-top: -5px;
+  color: #8f8f8f;
+  font-size: 11px;
+}
+.shortcode-option select.shortcode-field {
+  width: 100%;
+}
+.shortcode-option-thumb{
+	width: 45px;
+	height: 45px;
+}
+.shortcode-image-wrapper{
+	position: relative;
+	width: 45px;
+	height: 45px;
+	float: left;
+	margin-right: 1px;
+}
+.shortcode-images-holder, .shortcode-image-holder{
+	display: block;
+}
+.clearfix{
+	clear: both;
+	margin-bottom: 5px;
+}
+.shortcode-remove-image, .shortcode-remove-images{
+	font-size: 12px;
+	line-height: 13px;
+	height: 14px;
+	width: 14px;
+	position: absolute;
+	right: 2px;
+	top: 2px;
+	background-color: #eeeeee;
+	padding: 2px;
+	text-align: center;
+	text-decoration: none;
+}
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable{
+	z-index: 99999999;
+}
+
+body.modal-open{
+	overflow: visible;
+}
+
+.voucher_payment_status .fa, .couponxxl_pay_all_sellers .fa{
+	margin-left: 5px;
+}
+
+.wp-core-ui .button.offer_toggle_options{
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.wp-core-ui .button.offer_toggle_options.hide-btn,
+#offer-common-data,
+#coupon-information,
+#deal-information,
+#couponxxl_ratings,
+#offer_discussion:not(textarea){
+	display: none;
+}
+
+.wp-core-ui .button.offer_toggle_options.has_new{
+	background: #d54e21;
+	border-color: #d54e21;
+	color: #ffffff;
+}
+
+.couponxxl-overall-stats li:after, .couponxxl-overall-stats li{
+	clear: both;
+}
+
+.couponxxl-overall-stats li .value{
+	float: right;
+	font-weight: bold;
+}
+
+.store-location-wrap{
+	background: #eeeeee;
+	position: relative;
+	margin-bottom: 10px;
+}
+
+.store-location-wrap:after{
+	content:'';
+	display:block;
+	clear: both;
+}
+
+.store-location-wrap .col-sm-4,
+.store-location-wrap .col-sm-8{
+	float: left;
+	display: inline-block;
+}
+
+.store-location-wrap .col-sm-8{
+	width: 75%;
+}
+
+.store-location-wrap .col-sm-4{
+	width: calc(25% - 60px);
+	padding: 30px;
+}
+
+.store-location-wrap label,
+.store-location-wrap input,
+.store-location-wrap select{
+	display: block;
+}
+
+.store-location-wrap input,
+.store-location-wrap select{
+	width: 100%;
+}
+
+.remove-store-location{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	background: #ffffff;
+	top: 2px;
+	right: 2px;
+	height: 20px;
+	width: 20px;
+	font-size: 11px;
+	line-height: 20px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.store-marker,
+.store-location-wrap select{
+	margin-bottom: 20px;
+}
+
+.store-marker{
+	position: relative;
+}
+
+.remove-store-marker{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 27px;
+	width: 17px;
+	height: 27px;
+}
+
+.store-gmap{
+	width: 100%;
+	height: 400px;
+}
+
+.store-gmap img{
+	max-width: none;
+}
+
+.checkbox-wrap{
+	display: block;
+	margin: 5px 0px;
+}
+
+.checkbox-wrap-child{
+	margin-left: 10px;
+}
+
+#offer_deal_location{
+	display: none;
+}
+
+.offer_store_wrap label{
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+
+.offer_store_wrap select{
+	display: block;
+	font-size: 12px;
+	margin-top: 3px;
+}
+
+.offer_store_wrap .sm_metabox_description{
+	font-size: 14px;
+}
+
+.offer_store_wrap{
+	padding: 5px;
+}
+
+.checkbox-group{
+	margin-top: 15px;
+}
+
+.checkbox-group label{
+	font-weight: normal;
+}
+
+.order-list li{
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+	font-weight: bold;
+	position: relative;;
+	border-bottom: 1px solid #eee;
+}
+
+.wp-core-ui .button.manual-refund{
+	bottom: 2px;
+	position: relative;
+	right: 0px;
+	vertical-align: middle;
+}
+
+.order-list li .order-item-vouchers{
+	font-weight: normal;
+	margin-top: 10px;
+}
+
+.order-item-vouchers{
+	margin-left: 10px;
+}
+
+.voucher-wrap{
+	line-height: 28px;
+	font-size: 22px;
+	font-weight: 700;
+}
+
+.voucher-wrap .button{
+	font-weight: 400;
+	margin-left: 5px;
+}
+
+.order-item-split{
+	font-weight: normal;
+}
+
+.order-right{
+	float: right;
+}
+
+.order-left{
+	float: left;
+}
+
+.order-list li.order-total{
+	border-bottom: none;
+}
+
+.category_image.column-category_image img{
+	height: auto;
+	max-width: 100%;
+}
+
+.cd-import{
+	width: 100%;
+	min-height: 300px;
+}
+
+#setting-error-tgmpa{
+	display: block;
+}

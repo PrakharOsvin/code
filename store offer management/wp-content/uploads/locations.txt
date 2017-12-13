@@ -1,0 +1,102 @@
+location	: long, lat
+----------------------------------------
+
+** Abu Dhabi:
+
+Abu Dhabi Mall		: 54.383226, 24.495924
+Al Wahda Mall		: 54.372758, 24.470133
+Boutik Mall		: 54.407730, 24.495711
+Carrefour Airport Road	: 54.452447, 24.423753
+Bawabat Al Sharq Mall	: 54.620071, 24.311995
+Dalma Mall		: 54.523869, 24.333143
+Deerfields		: 54.670521, 24.523313
+Khalidiyah Mall		: 54.351768, 24.469963
+Baniyas Mall		: 54.637243, 24.296371
+Lulu Baniyas		: 54.635920, 24.296285
+Madinat Zayed Shopping Centre: 54.365335, 24.483826
+Marina Mall		: 54.321514, 24.476059
+Mushrif Mall		: 54.412562, 24.434691
+The Galleria		: 54.388751, 24.501377
+World Trade Center	: 54.357463, 24.487250
+Yas Mall		: 54.608778, 24.488505
+
+
+** AL Ain:
+
+Al Ain Mall		: 55.781877, 24.222506
+Al Falah Plaza		: 55.762095, 24.224404
+Al Foah Mall		: 55.792819, 24.344261
+Al Jimi Mall		: 55.726665, 24.244083
+Barari Outlet Mall	: 55.830056, 24.086102
+Bawadi Mall		: 55.807177, 24.160668
+Hili Mall		: 55.779848, 24.273962
+Lulu Al Ain		: 55.739038, 24.225984
+Lulu Sanaiya Al Ain	: 55.761835, 24.202962
+Remal Mall		: 55.761509, 24.204691
+
+
+** Dubai:
+Al Ghurair Center	: 55.317351, 25.267171
+Etihad Mall		: 55.420338, 25.236687
+Arabian Center		: 55.435890, 25.234089
+Arabian Ranches Community Center: 55.270428, 25.056954
+Carrefour Al Shindagha	: 55.286819, 25.264217
+Century Mall		: 55.347048, 25.289942
+City Centre Meaisem	: 55.197545, 25.040190
+Deira City Centre	: 55.332803, 25.251966
+Dubai Festival City mall: 55.352445, 25.222179
+Dubai Mall		: 55.278710, 25.197642
+Dubai Marina Mall	: 55.140504, 25.076430
+Dubai Outlet Mall	: 55.400833, 25.072656
+Ibn Battuta Mall	: 55.120296, 25.044548
+Lulu Village		: 55.410666, 25.280680
+Madina Mall		: 55.398081, 25.281858
+Mall of the Emirates	: 55.200608, 25.118107
+Mercato Shopping Mall	: 55.252987, 25.216452
+Mirdif City Centre	: 55.407795, 25.216319
+Reef Mall		: 55.322604, 25.269607
+Sunset Mall		: 55.226093, 25.183754
+The Ranches Souk	: 55.270500, 25.029400
+
+
+** Sharjah
+Al Shaab Village	: 55.426347, 25.371921
+Ansar Mall		: 55.369056, 25.303028
+Lulu Center Rolla	: 55.392338, 25.364504
+Mega Mall		: 55.398667, 25.344583
+Safeer Mall		: 55.379035, 25.309585
+Sahara Mall		: 55.372282, 25.297438
+Sharjah City Centre	: 55.393100, 25.325311
+
+
+** Ajman:
+
+Ajman City Centre	: 55.479306, 25.399622
+Dana Mall		: 55.458599. 25.389616
+Safeer Mall		: 55.444831, 25.390070
+
+
+** Fujairah
+Century Mall Fujairah	: 56.350045, 25.157403
+City Centre Fujairah	: 56.302207, 25.125694
+Fujairah Mall		: 56.315315, 25.123329
+Fujairah Trade Centre	: 56.331122, 25.121290
+LuLu Mall Fujairah	: 56.328233, 25.119801
+
+
+** Ras al Khaimah
+
+Al Hamra Mall		: 55.781637, 25.683032
+Al Naeem City Center	: 55.925070, 25.748799
+Al Naeem Mall		: 55.967724, 25.792156
+RAK Mall		: 55.959450, 25.772120
+Ras Al Khaimah Trading Mall: 55.927807, 25.776199
+Safeer Mall		: 55.925070, 25.748799
+
+
+** Umm al Qiwain
+
+Lulu Centre		: 55.551960, 25.563757
+UAQ Proarc Mall		: 55.595976, 25.504662
+Town Mall Umm Al Quwain	: 55.550334, 25.501911
+
